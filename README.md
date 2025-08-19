@@ -12,6 +12,6 @@ EX10- conversor € em $ (format com casas decimais)
 EX11- área em m2
 EX12- descontos em produtos
 EX13- aumento percentual 
-EX14-
+EX14- conversor de C• para F•
 EX15-
 EX16-
