@@ -13,5 +13,5 @@ EX11- área em m2
 EX12- descontos em produtos
 EX13- aumento percentual 
 EX14- conversor de C• para F•
-EX15-
+EX15- cálculos em prints
 EX16-
