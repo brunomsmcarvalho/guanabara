@@ -1,4 +1,4 @@
-Resolução dos esxercicios do curso em video sobre python do professor Gustavo Guanabara
+Resolution of exercises from the video course on Python by Professor Gustavo Guanabara
 EX1- Input()/print()
 EX2- Input()/print()
 EX3- Arithmetics
