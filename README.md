@@ -1,21 +1,21 @@
 Resolução dos esxercicios do curso em video sobre python do professor Gustavo Guanabara
-EX1- Input/print
-EX2- Input/print
-EX3- Aritméticos
-EX4- Análise de variáveis
-EX5- Sucessor e antecessor
-EX6- Aritméticos em print
-EX7- Calcular média
-EX8- Conversor de medida
-EX9- Tabuada de n
-EX10- Conversor € em $ (format com casas decimais)
-EX11- Área em m2
-EX12- Descontos em produtos
-EX13- Aumento percentual 
-EX14- Conversor de C• para F•
-EX15- Cálculos em prints
+EX1- Input()/print()
+EX2- Input()/print()
+EX3- Arithmetics
+EX4- Analysis of variables
+EX5- Successor and predecessor
+EX6- Arithmetics in print()
+EX7- Calculate average
+EX8- Measurement converter
+EX9- Multiplication table of 'n'
+EX10- € to $ converter (format with decimal places)
+EX11- Area in m2
+EX12- Discounts on products
+EX13- Percentage increase
+EX14- C• to F• Converter
+EX15- Calculations in prints
 EX16- Lib trunc()
-EX17- 
+EX17- Hypotenuse (with hypot)
 EX18-
 EX19-
 EX20-
