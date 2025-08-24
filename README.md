@@ -17,8 +17,8 @@ EX15- Calculations in prints
 EX16- Lib trunc()
 EX17- Hypotenuse (with .hypot)
 EX18- Sin Cos Tan of an angle
-EX19-
-EX20-
+EX19- From random import choice
+EX20- From random import shuffle
 EX21-
 EX22-
 EX23-
