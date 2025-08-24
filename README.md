@@ -15,8 +15,8 @@ EX13- Percentage increase
 EX14- C• to F• Converter
 EX15- Calculations in prints
 EX16- Lib trunc()
-EX17- Hypotenuse (with hypot)
-EX18-
+EX17- Hypotenuse (with .hypot)
+EX18- Sin Cos Tan of an angle
 EX19-
 EX20-
 EX21-
