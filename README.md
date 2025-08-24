@@ -19,13 +19,13 @@ EX17- Hypotenuse (with .hypot)
 EX18- Sin Cos Tan of an angle
 EX19- From random import choice
 EX20- From random import shuffle
-EX21-
-EX22-
-EX23-
-EX24-
-EX25-
-EX26-
-EX27-
+EX21- Play a music
+EX22- Name edit .upper .lower .len .split .count
+EX23- Split a number in units, tenths, hundreds, thousands
+EX24- Print city 'SANTO' True
+EX25- Name verify 
+EX26- .count .find . rfind in string
+EX27- 
 EX28-
 EX29-
 EX30-
