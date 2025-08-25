@@ -25,7 +25,7 @@ EX23- Split a number in units, tenths, hundreds, thousands
 EX24- Print city 'SANTO' True
 EX25- Name verify 
 EX26- .count .find . rfind in string
-EX27- 
+EX27- Split strings
 EX28-
 EX29-
 EX30-
