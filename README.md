@@ -26,7 +26,7 @@ EX24- Print city 'SANTO' True
 EX25- Name verify 
 EX26- .count .find . rfind in string
 EX27- Split strings
-EX28-
+EX28- Random and sleep libs (game: guess the number)
 EX29-
 EX30-
 EX31
