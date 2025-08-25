@@ -27,7 +27,7 @@ EX25- Name verify
 EX26- .count .find . rfind in string
 EX27- Split strings
 EX28- Random and sleep libs (game: guess the number)
-EX29-
+EX29- Car speed + fine overspeed
 EX30-
 EX31
 EX32-
