@@ -28,8 +28,8 @@ EX26- .count .find . rfind in string
 EX27- Split strings
 EX28- Random and sleep libs (game: guess the number)
 EX29- Car speed + fine overspeed
-EX30-
-EX31
+EX30- Odd and pair verification
+EX31- 
 EX32-
 EX33-
 EX34-
