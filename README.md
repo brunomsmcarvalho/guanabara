@@ -30,7 +30,7 @@ EX28- Random and sleep libs (game: guess the number)
 EX29- Car speed + fine overspeed
 EX30- Odd and pair verification
 EX31- Simplified if (car trip exe)
-EX32-
+EX32- Datetime lib - leap year
 EX33-
 EX34-
 EX35-
