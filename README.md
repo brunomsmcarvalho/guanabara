@@ -33,7 +33,7 @@ EX31- Simplified if (car trip exe)
 EX32- Datetime lib - leap year
 EX33- High and low with if
 EX34- Salary calculation with conditions
-EX35-
+EX35- Triangle feasibility
 EX36-
 EX37-
 EX38-
