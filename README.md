@@ -37,7 +37,7 @@ EX35- Triangle feasibility
 EX36- House bank loan approval
 EX37- Int to Binary, Octal and Hexadecimal
 EX38- If, Elif and Else in high or low number
-EX39-
+EX39- Lib date military enrollment
 EX40-
 EX41-
 EX42-
