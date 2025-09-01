@@ -34,7 +34,7 @@ EX32- Datetime lib - leap year
 EX33- High and low with if
 EX34- Salary calculation with conditions
 EX35- Triangle feasibility
-EX36-
+EX36- House bank loan approval
 EX37-
 EX38-
 EX39-
