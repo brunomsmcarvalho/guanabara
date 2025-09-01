@@ -12,6 +12,7 @@ if a == 1 :
 elif a == 2 :
     print('O numero {} convertido para OCTAL `e: {}'.format(x,oct(x)[2:]))#na resposta aparece um codigo que nao fica mt interessante para o usuario
 elif a == 3 :
-    print('O numero {} convertido para HEXADECIMAL `e: {}'.format(x,hex(x)[2:]))#com o codigo[2:] fazemos com quie a resposta comece no 3 caracter e va ate o final
+    print('O numero {} convertido para HEXADECIMAL `e: {}'.format(x,hex(x)[2:]))#com o codigo[2:] fazemos com que a resposta comece no 3 caracter e va ate o final
 else:
+
     print('Valor introduzido incorrecto!!')
