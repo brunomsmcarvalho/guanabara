@@ -40,7 +40,7 @@ EX38- If, Elif and Else in high or low number
 EX39- Lib date military enrollment
 EX40- Colours on prints 
 EX41- Date to split football levels 
-EX42-
+EX42- Exe35 Redone especify type of triangle
 EX43-
 EX44-
 EX45-
