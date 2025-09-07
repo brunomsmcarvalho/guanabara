@@ -38,7 +38,7 @@ EX36- House bank loan approval
 EX37- Int to Binary, Octal and Hexadecimal
 EX38- If, Elif and Else in high or low number
 EX39- Lib date military enrollment
-EX40-
+EX40- Colours on prints 
 EX41-
 EX42-
 EX43-
