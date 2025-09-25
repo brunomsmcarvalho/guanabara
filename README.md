@@ -45,7 +45,7 @@ EX43- Text center and discounts in a menu without list
 EX44- Menu in a shop with different payments
 EX45- Rock papper scissors, colours and menu
 EX46- Lib sleep with for
-EX47-
+EX47- Odd numbers in a range
 EX48-
 EX49-
 EX50-
