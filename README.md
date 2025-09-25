@@ -41,8 +41,8 @@ EX39- Lib date military enrollment
 EX40- Colours on prints 
 EX41- Date to split football levels 
 EX42- Exe35 Redone specify type of triangle
-EX43- Text center and descounts in a menu without list
-EX44-
+EX43- Text center and discounts in a menu without list
+EX44- 
 EX45-
 EX46-
 EX47-
