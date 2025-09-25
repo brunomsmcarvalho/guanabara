@@ -42,7 +42,7 @@ EX40- Colours on prints
 EX41- Date to split football levels 
 EX42- Exe35 Redone specify type of triangle
 EX43- Text center and discounts in a menu without list
-EX44- 
+EX44- Menu in a shop with different payments
 EX45-
 EX46-
 EX47-
