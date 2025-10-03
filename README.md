@@ -67,7 +67,7 @@ Este repositório contém as resoluções dos exercícios propostos no curso de 
 - **EX48** – Noção de contador e acumulador
 - **EX49** – Print com for e edição
 - **EX50** – Soma de números pares inputed  
-- **EX51** – *[a preencher]*  
+- **EX51** – Progressão aritmética 
 - **EX52** – *[a preencher]*  
 
 ---
