@@ -1,54 +1,81 @@
-Resolution of exercises from the video course on Python by Professor Gustavo Guanabara
-EX1- Input()/print()
-EX2- Input()/print()
-EX3- Arithmetics
-EX4- Analysis of variables
-EX5- Successor and predecessor
-EX6- Arithmetics in print()
-EX7- Calculate average
-EX8- Measurement converter
-EX9- Multiplication table of 'n'
-EX10- € to $ converter (format with decimal places)
-EX11- Area in m2
-EX12- Discounts on products
-EX13- Percentage increase
-EX14- C• to F• Converter
-EX15- Calculations in prints
-EX16- Lib trunc()
-EX17- Hypotenuse (with .hypot)
-EX18- Sin Cos Tan of an angle
-EX19- From random import choice
-EX20- From random import shuffle
-EX21- Play a music
-EX22- Name edit .upper .lower .len .split .count
-EX23- Split a number in units, tenths, hundreds, thousands
-EX24- Print city 'SANTO' True
-EX25- Name verify 
-EX26- .count .find . rfind in string
-EX27- Split strings
-EX28- Random and sleep libs (game: guess the number)
-EX29- Car speed + fine overspeed
-EX30- Odd and pair verification
-EX31- Simplified if (car trip exe)
-EX32- Datetime lib - leap year
-EX33- High and low with if
-EX34- Salary calculation with conditions
-EX35- Triangle feasibility
-EX36- House bank loan approval
-EX37- Int to Binary, Octal and Hexadecimal
-EX38- If, Elif and Else in high or low number
-EX39- Lib date military enrollment
-EX40- Colours on prints 
-EX41- Date to split football levels 
-EX42- Exe35 Redone specify type of triangle
-EX43- Text center and discounts in a menu without list
-EX44- Menu in a shop with different payments
-EX45- Rock papper scissors, colours and menu
-EX46- Lib sleep with for
-EX47- Odd numbers in a range
-EX48-
-EX49-
-EX50-
-EX51-
-EX52-
+# 📘 Exercícios de Python – Curso em Vídeo (Prof. Gustavo Guanabara)
 
+Este repositório contém as resoluções dos exercícios propostos no curso de **Python** do [Curso em Vídeo](https://www.cursoemvideo.com/).
+
+---
+
+## 📝 Lista de Exercícios
+
+### 🔹 Introdução
+- **EX1** – `input()` e `print()`
+- **EX2** – `input()` e `print()`
+- **EX3** – Operações aritméticas
+- **EX4** – Análise de variáveis
+
+### 🔹 Operações Básicas
+- **EX5** – Sucessor e antecessor  
+- **EX6** – Aritmética dentro do `print()`  
+- **EX7** – Cálculo de média  
+- **EX8** – Conversor de medidas  
+- **EX9** – Tabuada de `n`  
+- **EX10** – Conversor de € para $ (com casas decimais)  
+
+### 🔹 Estruturas e Condições
+- **EX11** – Área em m²  
+- **EX12** – Desconto em produtos  
+- **EX13** – Aumento percentual  
+- **EX14** – Conversor ºC → ºF  
+- **EX15** – Cálculos no `print()`  
+- **EX16** – `math.trunc()`  
+- **EX17** – Hipotenusa (`math.hypot`)  
+- **EX18** – Seno, Cosseno e Tangente  
+- **EX19** – `random.choice()`  
+- **EX20** – `random.shuffle()`  
+- **EX21** – Tocar música (`pygame`)  
+
+### 🔹 Manipulação de Strings
+- **EX22** – Edição de nome (`.upper()`, `.lower()`, `.len()`, `.split()`, `.count()`)  
+- **EX23** – Separar número em unidades, dezenas, centenas, milhares  
+- **EX24** – Verificar se cidade começa por "SANTO"  
+- **EX25** – Verificar nome  
+- **EX26** – `.count()`, `.find()`, `.rfind()` em string  
+- **EX27** – Split de strings  
+
+### 🔹 Jogos e Condicionais
+- **EX28** – Jogo: Adivinha o número (`random`, `sleep`)  
+- **EX29** – Velocidade do carro + multa  
+- **EX30** – Verificação par/ímpar  
+- **EX31** – Condição simples (viagem de carro)  
+- **EX32** – Ano bissexto (`datetime`)  
+- **EX33** – Maior e menor número  
+- **EX34** – Cálculo de salário com condições  
+- **EX35** – Verificação de triângulo  
+- **EX36** – Empréstimo bancário (casa)  
+- **EX37** – Conversão de inteiro → Binário, Octal, Hexadecimal  
+- **EX38** – Comparação de números (`if/elif/else`)  
+- **EX39** – Alistamento militar (`datetime`)  
+- **EX40** – Cores no `print()`  
+- **EX41** – Categorias de futebol (idade)  
+- **EX42** – Tipo de triângulo (baseado no EX35)  
+- **EX43** – Texto centralizado + descontos (menu simples)  
+- **EX44** – Loja com diferentes métodos de pagamento  
+- **EX45** – Pedra, papel, tesoura (com cores e menu)  
+- **EX46** – Contagem regressiva (`sleep` + `for`)  
+
+### 🔹 Estruturas de Repetição
+- **EX47** – Números ímpares num intervalo  
+- **EX48** – Noção de contador e acumulador
+- **EX49** – *[a preencher]*  
+- **EX50** – *[a preencher]*  
+- **EX51** – *[a preencher]*  
+- **EX52** – *[a preencher]*  
+
+---
+
+## 🚀 Como usar
+Clona o repositório e executa os ficheiros em Python 3:
+
+```bash
+git clone https://github.com/teu-usuario/nome-repo.git
+cd nome-repo
+python ex01.py
