@@ -68,7 +68,15 @@ Este repositório contém as resoluções dos exercícios propostos no curso de 
 - **EX49** – Print com for e edição
 - **EX50** – Soma de números pares inputed  
 - **EX51** – Progressão aritmética 
-- **EX52** – *[a preencher]*  
+- **EX52** – Número primo
+- **EX53** –
+- **EX54** –
+- **EX55** –
+- **EX56** –
+- **EX57** –
+- **EX58** –
+- **EX59** –
+- **EX60** –
 
 ---
 
