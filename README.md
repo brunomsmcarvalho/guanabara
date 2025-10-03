@@ -66,7 +66,7 @@ Este repositório contém as resoluções dos exercícios propostos no curso de 
 - **EX47** – Números ímpares num intervalo  
 - **EX48** – Noção de contador e acumulador
 - **EX49** – Print com for e edição
-- **EX50** – *[a preencher]*  
+- **EX50** – Soma de números pares inputed  
 - **EX51** – *[a preencher]*  
 - **EX52** – *[a preencher]*  
 
