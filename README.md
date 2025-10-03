@@ -65,7 +65,7 @@ Este repositório contém as resoluções dos exercícios propostos no curso de 
 ### 🔹 Estruturas de Repetição
 - **EX47** – Números ímpares num intervalo  
 - **EX48** – Noção de contador e acumulador
-- **EX49** – *[a preencher]*  
+- **EX49** – Print com for e edição
 - **EX50** – *[a preencher]*  
 - **EX51** – *[a preencher]*  
 - **EX52** – *[a preencher]*  
