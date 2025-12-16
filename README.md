@@ -69,7 +69,7 @@ Este repositório contém as resoluções dos exercícios propostos no curso de 
 - **EX50** – Soma de números pares inputed  
 - **EX51** – Progressão aritmética 
 - **EX52** – Número primo
-- **EX53** – Palindromo Manusear Strings
+- **EX53** – Palindromo manusear strings
 - **EX54** –
 - **EX55** –
 - **EX56** –
