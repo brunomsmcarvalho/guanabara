@@ -70,8 +70,8 @@ Este repositório contém as resoluções dos exercícios propostos no curso de 
 - **EX51** – Progressão aritmética 
 - **EX52** – Número primo
 - **EX53** – Palindromo manusear strings
-- **EX54** –
-- **EX55** –
+- **EX54** – Lib datetime, analisa idd > 18
+- **EX55** – Função Max/Min em lista
 - **EX56** –
 - **EX57** –
 - **EX58** –
